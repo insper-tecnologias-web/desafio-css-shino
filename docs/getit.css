@@ -29,7 +29,7 @@ body {
 
 /* Você pode usar o CSS comentado abaixo, se ajudar */
 /* Fonte: https://codepen.io/CrisWoler/pen/ogXBLj */
-/* .btn {
+ .btn {
   position: relative;
   display: block;
   padding: 10px 15px;
@@ -72,9 +72,98 @@ body {
   transform: translate(-50%, -50%);
 }
 
+
 .btn:active:before {
   width: 120%;
   padding-top: 120%;
 
   transition: width 0.2s ease-out, padding-top 0.2s ease-out;
-} */
+} 
+
+.logo{
+  
+  height: 80%;
+}
+.appbar{
+  display:flex;
+  height:40px;
+  background-color:#f7d736 ;
+  align-items: center;
+  justify-content: start;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+.subtitle{
+  font-size: 9pt;
+  padding-left: 10px;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form-card{
+  width:30%;
+  content: "";
+  padding: 10px;
+
+  margin-top: 20px;
+
+  display:flex;
+  flex-direction: column;
+  border-radius: 0 2px 2px 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+.form-card-title{
+  border-width: 0;
+  font-size: 14pt;
+  padding-bottom: 5px;
+}
+
+.autoresize{
+  border-width: 0;
+  resize: none;
+  letter-spacing: 1px;
+}
+
+.card-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:space-around;
+  padding-top: 15px;
+
+}
+
+.card{
+  width: 14%;
+  padding:5px;
+  margin:10px 0;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+  
+}
+
+.card-title{
+  font-family: 'Permanent Marker', cursive;
+  padding-bottom: 10px;
+    
+  height: 20%;
+}
+
+.card-content{
+  font-family: 'Permanent Marker', cursive;
+  color: #4c4c4c;
+  font-size: 10pt;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items:center;  
+  height: 75%;
+  padding-bottom: 10px;
+}
+
+
