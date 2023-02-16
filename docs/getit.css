@@ -166,4 +166,66 @@ body {
   padding-bottom: 10px;
 }
 
+.card-color-1{
+  background-color: #ead3a7;
+}
 
+.card-color-2{
+  background-color:  #9de0f5;
+}
+
+.card-color-3{
+  background: #ef89ba;
+}
+
+.card-color-4{
+  background-color: #abe9c1;
+}
+
+.card-color-5{
+  background-color: #fae890;
+}
+
+.card-rotation-1{
+  transform: rotate(-3deg)
+}
+
+.card-rotation-2{
+  transform: rotate(0deg)
+}
+
+.card-rotation-3{
+  transform: rotate(3deg)
+}
+
+.card-rotation-4{
+  transform: rotate(5deg)
+}
+
+.card-rotation-5{
+  transform: rotate(-5deg)
+}
+
+.card-rotation-6{
+  transform: rotate(4deg)
+}
+
+.card-rotation-7{
+  transform: rotate(-4deg)
+}
+
+.card-rotation-8{
+  transform: rotate(-1deg)
+}
+
+.card-rotation-9{
+  transform: rotate(1deg)
+}
+
+.card-rotation-10{
+  transform: rotate(2deg)
+}
+
+.card-rotation-11{
+  transform: rotate(-2deg)
+}
