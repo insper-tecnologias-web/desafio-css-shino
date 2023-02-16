@@ -4,8 +4,7 @@ DUPLA/TRIO:
 
 - Alexandre Rodrigues Santarossa
 - Kevin Nagayuki Shinohara
-- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
-
+- Link do GitHub Pages: https://insper-tecnologias-web.github.io/desafio-css-shino/
 ## Desafio CSS
 
 Na aula passada nós desenvolvemos a primeira versão do nosso primeiro site, o Get-it. Na aula de hoje nós vamos nos focar no estilo da página para relembrar e aprender alguns conceitos de CSS.
